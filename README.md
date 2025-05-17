@@ -10,7 +10,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlencarMatheus&theme=midnight-purple&hide_border=true" />
-</p>
