@@ -6,7 +6,7 @@
 <!-- Bio -->
 <h1 align="center">👋 Olá, eu sou o Matheus Alencar</h1>
 <p align="center">
-  🎓 DevOps Student • 💻 Apaixonado por infraestrutura, automação e tecnologia
+  🎓 DevOps Student • 💻 Focado em infraestrutura, automação e tecnologia
 </p>
 
 <!-- Stats + Linguagens lado a lado -->
