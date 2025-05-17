@@ -12,7 +12,7 @@
 <!-- Stats + Linguagens lado a lado -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlencarMatheus&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlencarMatheus&layout=compact&theme=midnight-purple&hide_border=true" width="44.0%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlencarMatheus&layout=compact&theme=midnight-purple&hide_border=true" width="44.5%" />
 </p>
 
 
