@@ -1,11 +1,16 @@
 ![Banner](./profile-purple.png)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlencarMatheus&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlencarMatheus&theme=midnight-purple&layout=compact&hide_border=true" width="48%" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AlencarMatheus&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlencarMatheus&theme=midnight-purple&show_icons=true&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlencarMatheus&theme=midnight-purple&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlencarMatheus&theme=midnight-purple&hide_border=true" />
 </p>
-
