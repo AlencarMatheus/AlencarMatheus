@@ -15,4 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlencarMatheus&layout=compact&theme=midnight-purple&hide_border=true" width="44.5%" />
 </p>
 
+<!-- Contact -->
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alencarmat/)
+
 
