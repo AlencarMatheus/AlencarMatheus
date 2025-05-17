@@ -11,16 +11,8 @@
 
 <!-- Stats + Linguagens lado a lado -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlencarMatheus&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="46%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlencarMatheus&theme=midnight-purple&show_icons=true&hide_border=true" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlencarMatheus&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlencarMatheus&layout=compact&theme=midnight-purple&hide_border=true" width="49.5%" />
 </p>
 
-<!-- Streak centralizado -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlencarMatheus&theme=midnight-purple&hide_border=true" width="50%" />
-</p>
 
-<!-- Contato (opcional, personalize se quiser) -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/alencarmat/">🔗 Meu LinkedIn</a>
-</p>
