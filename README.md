@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="profile-purple.png" alt="Banner do Matheus Alencar" />
+  <img src="https://raw.githubusercontent.com/AlencarMatheus/AlencarMatheus/main/profile-purple.png" alt="Banner do Matheus Alencar" />
 </p>
 
 <!-- Bio -->
